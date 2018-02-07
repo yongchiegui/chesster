@@ -4,6 +4,9 @@ Chesster is a Slack bot user that allows you to keep track of the chess ELO rati
 your team. Upon receiving commands, Chesster will fetch the ratings from an AWS S3 bucket, edit,
 and store them back in the same bucket.
 
+![Image of Chesster](./images/chesster.png)
+![Image of Slack Chat](./images/slackchat.png)
+
 ### Motivation
 My coworkers and I often played chess during office downtime, and we kept track of ratings
 by sticking names on a bulletin board. I wrote this for convenience purposes to improve on
