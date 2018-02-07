@@ -1,0 +1,19 @@
+{
+    "AWS": {
+        "ACCESS_KEY_ID": "<DUMMY>",
+        "SECRET_ACCESS_KEY": "<DUMMY>",
+        "S3": {
+            "BUCKET_NAME": "<DUMMY>",
+            "FILE_NAME": "<DUMMY.csv>"
+        }
+    },
+    "CHESSTER": {
+        "ID": "<DUMMY>",
+        "TOKEN": "<DUMMY>"
+    },
+    "GENERAL": {
+        "DEFAULT_RATING": 1200,
+        "RATING_FORMAT": "name,rating",
+        "SLEEP_SECONDS": 1
+    }
+}
